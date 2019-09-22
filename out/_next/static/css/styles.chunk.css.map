@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/styles.chunk.css","sources":["webpack:///./pages/about/index.less"],"sourcesContent":["/*\n * @Author: bruce.lc\n * @Date: 2019-09-22 23:17:28\n * @Last Modified by: bruce.lc\n */\n.main {\n  color: green;\n}\n"],"mappings":"AAAA;;;;AAIA;AACA;AACA;AACA;;","sourceRoot":""}
