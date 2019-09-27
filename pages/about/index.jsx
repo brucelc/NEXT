@@ -4,7 +4,7 @@
  * @Last Modified by: bruce.lc
  */
 import React from 'react';
-import Head from 'next/head'
+import Head from 'next/head';
 // style
 import style from './index.less';
 

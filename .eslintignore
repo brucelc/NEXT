@@ -1,0 +1,4 @@
+pages/actions/*
+pages/reducers/*
+pages/constants/actionTypes.js
+pages/sagas/*
