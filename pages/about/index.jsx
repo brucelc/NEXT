@@ -17,6 +17,7 @@ export default class About extends React.PureComponent {
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         </Head>
         <span>About2</span>
+
       </div>
     );
   }
